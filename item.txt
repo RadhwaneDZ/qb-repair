@@ -1,0 +1,2 @@
+-- add this to qb-core/shared/items.lua
+['repairitem'] 					 = {['name'] = 'repairitem', 			 	  	['label'] = 'repairitem', 				['weight'] = 2500, 		['type'] = 'item', 		['image'] = 'repairkit.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'self repair item for cars and trucks'},
